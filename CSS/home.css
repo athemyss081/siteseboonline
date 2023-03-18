@@ -1,0 +1,104 @@
+form, fieldset {
+    border: 0;
+}
+
+form fieldset label{
+    display: block;
+    color: #ffff;
+}
+
+form fieldset input, textarea {
+    width: 50%;
+}
+
+main {
+    text-align: center;
+    
+}
+
+.item-produto1 {
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+
+.item-produto1 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+
+.item-produto2 {
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+
+.item-produto2 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+
+.item-produto3 {
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+
+.item-produto3 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}.item-produto4 {
+
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+
+.item-produto4 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}.item-produto5 
+{
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+.item-produto5 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+.item-produto6 {
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+.item-produto6 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+.item-produto7 {
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+.item-produto7 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+.item-produto8 {
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+.item-produto8 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;   
+}    

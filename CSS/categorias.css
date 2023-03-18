@@ -1,0 +1,102 @@
+form, fieldset {
+    border: 0;
+}
+
+form fieldset label{
+    display: block;
+    color: #ffff;
+}
+
+form fieldset input, textarea {
+    width: 50%;
+}
+main {
+    text-align: center;
+    
+}
+.item-categoria1 {
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+
+.item-categoria1 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+
+.item-categoria2 {
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+
+.item-categoria2 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+
+.item-categoria3 {
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+
+.item-categoria3 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}.item-categoria4 {
+
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+
+.item-categoria4 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}.item-categoria5 
+{
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+.item-categoria5 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+.item-categoria6 {
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+.item-categoria6 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+.item-categoria7 {
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+.item-categoria7 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+.item-categoria8 {
+    display: inline-block;
+    margin: 50px;
+    border: 1px solid #03b632;
+}
+.item-categoria8 a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;   
+}    
